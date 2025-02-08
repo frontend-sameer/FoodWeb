@@ -96,7 +96,7 @@ const Header = ({ count }) => {
               />
             </p>
             <p>
-              <span className="ml-2 text-[1.4vw]">{count}</span>
+              <span className="ml-1 text-[1.5vw]">{count}</span>
               <FaCartShopping size={20} className="mt-[-6px]" />
             </p>
           </div>

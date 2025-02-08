@@ -58,12 +58,12 @@ const Hero = () => {
         </div>
         <div className="flex justify-between items-center w-full px-20 absolute bottom-[30%] text-white opacity-0 sm:opacity-100">
           <FaChevronLeft
-            size={"5vw"}
+            size={"3.5vw"}
             className="cursor-pointer"
             onClick={handelminus}
           />
           <FaChevronRight
-            size={"5vw"}
+            size={"3.5vw"}
             className="cursor-pointer"
             onClick={handelplus}
           />
